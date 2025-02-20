@@ -23,5 +23,5 @@ gem 'pry-coolline'
 
 group :test do
   gem 'colorize', '~> 0.8.1'
-  gem 'html-proofer', '~> 3.7'
+  gem 'html-proofer', '~> 3.15', '>= 3.15.0'
 end
